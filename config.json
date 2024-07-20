@@ -18,10 +18,10 @@
     }
   },
   "tickets": {
-    "1262750919905247233": {
-      "ticketChannelId": "1264170706632179804",
-      "adminRoleId": "1264100290500497438",
-      "status": false
+    "1264207233533870161": {
+      "ticketChannelId": "1264207234833973321",
+      "adminRoleId": "1264241556232208404",
+      "status": true
     }
   },
   "voiceChannelSetup": {
