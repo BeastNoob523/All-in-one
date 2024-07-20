@@ -12,8 +12,8 @@
     "password": "oryzen.xyz"
   },
   "guilds": {
-    "1262750919905247233": {
-      "welcomeChannelId": "1264170688483430430",
+    "1264207233533870161": {
+      "welcomeChannelId": "1264207234833973321",
       "status": true
     }
   },
@@ -21,7 +21,7 @@
     "1262750919905247233": {
       "ticketChannelId": "1264170706632179804",
       "adminRoleId": "1264100290500497438",
-      "status": false
+      "status": true 
     }
   },
   "voiceChannelSetup": {
@@ -29,7 +29,7 @@
       "mainVoiceChannelId": "1264170945136955393",
       "adminRoleId": "1264100290500497438",
       "managerChannelId": "1264170886043537419",
-      "status": false
+      "status": true
     }
   },
  "music": {
